@@ -29,24 +29,14 @@ Installing the Pilot Preflight App:
 Begin by cloning the Pilot Preflight app from the project repository into Android Studio.
 
 Launch the App:
-Once cloned, run the Pilot Preflight app on your computer.
+Once cloned, run the Pilot Preflight app on your computer, phone or tablet. 
 The app can be run with the Android emulator or via an Android mobile device if applicable.
-Refer to the Help Page:
 
-To quickly understand app functionalities and features, refer to the Help Page within the app. 
-Follow the instructions provided to navigate through different sections of the app.
+If on a tablet or andriod phone, users can click into the pilot preflight app, identifiable by the associated airplane logo and app name, on the home page. Once open, the user will be presented with the app's homescreen and can click through all functionalities.
 
 
 ### Where users can get help with your project: 
-Instructions on how to use the Pilot Preflight app are provided within the application via the help page. Common questions 
-may be found within this section of the app.
-
-Accessing Help Page:
-Navigate to the app's start page.
-Look for the "Help" option. This may be represented by a button labeled as "Help & Support."
-Help Page Contents:
-Once in the help section, you will find comprehensive instructions on using the Pilot Preflight app.
-Topics may include navigation, feature explanations, troubleshooting, and frequently asked questions (FAQs).
+Instructions on how to use the Pilot Preflight app are provided within the application via text descriptions.
 
 Project documentation is provided in the deliverables which are available through this repository.
 
